@@ -6,4 +6,8 @@ Git -- https://github.com/T1mber-W0lf/Git
 
 Docker -- https://github.com/T1mber-W0lf/Docker
 
-Lab-2 -- https://github.com/T1mber-W0lf/Lab-2
+Перетворення координат -- https://github.com/T1mber-W0lf/Lab-2
+
+Radar Emulator -- https://github.com/T1mber-W0lf/Lab-3/tree/main
+
+GPS Emulator -- https://github.com/T1mber-W0lf/Lab-4/tree/main
